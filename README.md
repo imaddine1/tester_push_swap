@@ -4,8 +4,8 @@
   3. you can replace the checker (use of the school or yours to test it)
   4. now execute script.sh `[test_number]` `[number_of_repetiton]` see below
   ```Shell
-  bash script 100 10
+  bash script.sh 100 10
   ```
  # HELPFULL LINKS 
-  you can check this repo for more pages of correction 
-  
+  - you can check this repo for more pages of correction [42_pages_of_correction](https://github.com/mharriso/school21-checklists).
+  - you can check this repo for more subject too [42_school](https://github.com/Binary-Hackers/42_Subjects)
