@@ -8,4 +8,4 @@
   ```
  # HELPFULL LINKS 
   - you can check this repo for more pages of correction [42_pages_of_correction](https://github.com/mharriso/school21-checklists).
-  - you can check this repo for more subject too [42_school](https://github.com/Binary-Hackers/42_Subjects)
+  - you can check this repo for more subject too [42_school_subjects](https://github.com/Binary-Hackers/42_Subjects)
