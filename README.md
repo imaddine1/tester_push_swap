@@ -1,4 +1,11 @@
 # HOW IT'S WORK ??
+## requirement
+  - you need to install Homebrew [install it](https://github.com/kube/42homebrew)
+  - then use this command
+  ```Shell
+    brew install coreutils
+  ```
+## how to execute ??
   1. just download the repo and execute your code with output like thise push_swap
   2. copy the output file (push_swap) and past it here in (tester_push_swap)
   3. you can replace the checker (use of the school or yours to test it)
