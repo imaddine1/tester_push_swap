@@ -8,7 +8,7 @@
 ## how to execute ??
   1. just download the repo and execute your code with output like thise push_swap
   2. copy the output file (push_swap) and past it here in (tester_push_swap)
-  3. you can replace the checker (use of the school or yours to test it)
+  3. download checker from subject (use of the school or yours to test it)
   4. now execute script.sh `[test_number]` `[number_of_repetiton]` `[limit_number_of_instruction]` see below
   ```Shell
   bash script.sh 100 10 699
