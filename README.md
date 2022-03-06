@@ -1,5 +1,5 @@
 # HOW IT'S WORK ??
-## requirement
+## requirement for mac
   - you need to install Homebrew [install it](https://github.com/kube/42homebrew)
   - then use this command
   ```Shell
